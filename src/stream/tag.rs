@@ -13,7 +13,6 @@ static DEFAULT_FILE_DISCARD: &[&str] = &[
     "AENC",
     "ETCO",
     "EQUA",
-    "MLLT",
     "POSS",
     "SYLT",
     "SYTC",
